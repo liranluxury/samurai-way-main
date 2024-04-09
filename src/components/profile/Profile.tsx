@@ -1,5 +1,5 @@
-import profileBackgroundIcon from '../image/background/aic-home.jpg'
-import myFoto from './../image/logo/myfoto.jpg'
+import profileBackgroundIcon from '../../image/background/aic-home.jpg'
+import myFoto from '../../image/logo/myfoto.jpg'
 import classes from './Profile.module.css';
 import React from "react";
 
