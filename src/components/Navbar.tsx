@@ -1,7 +1,7 @@
 import React from 'react';
-import classes from './Sidebar.module.css';
+import classes from './Navbar.module.css';
 
-const Sidebar =()=>{
+export const Navbar =()=>{
     return(
         <nav className={classes.nav}>
             <ul className={classes.navitem}>
@@ -14,4 +14,3 @@ const Sidebar =()=>{
         </nav>
     )
 }
-export default Sidebar;
