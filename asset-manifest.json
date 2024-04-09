@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/samurai-way-main/static/css/main.068228ea.css",
+    "main.js": "/samurai-way-main/static/js/main.b1b76b26.js",
+    "static/media/myfoto.jpg": "/samurai-way-main/static/media/myfoto.b83c6ca28041c493a33f.jpg",
+    "static/media/aic-home.jpg": "/samurai-way-main/static/media/aic-home.2ae9f8cedef368119996.jpg",
+    "index.html": "/samurai-way-main/index.html",
+    "main.068228ea.css.map": "/samurai-way-main/static/css/main.068228ea.css.map",
+    "main.b1b76b26.js.map": "/samurai-way-main/static/js/main.b1b76b26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.068228ea.css",
+    "static/js/main.b1b76b26.js"
+  ]
+}
